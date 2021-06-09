@@ -1,4 +1,4 @@
-  
+# This is a simple Setup for remote SSH deploy
 name: remote ssh command
 on: [push]
 jobs:
